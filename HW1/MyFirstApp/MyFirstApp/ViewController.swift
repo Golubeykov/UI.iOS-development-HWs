@@ -23,7 +23,7 @@ class ViewController: UIViewController {
             if login == "admin" && password == "admin" {
                 print ("Success")
             } else {
-                print ("Fail")
+                print ("Failure")
             }
         }
         
